@@ -1,4 +1,4 @@
-module github.com/aler9/gortsplib/v2
+module github.com/qiqian/gortsplib/v2
 
 go 1.18
 
